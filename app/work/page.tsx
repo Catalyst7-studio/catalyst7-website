@@ -43,6 +43,15 @@ export default function Work() {
       tag: "AI · SaaS",
     },
     {
+      slug: "llm-gateway",
+      category: "TECHNOLOGY",
+      year: "2026",
+      title: "Self-Healing LLM Gateway",
+      description:
+        "An open-source gateway that sends every prompt to Claude and fails over to Gemini on timeouts, rate limits and connection errors. One answer out, whichever provider is up.",
+      tag: "AI · Infrastructure",
+    },
+    {
       slug: "bolo-league-visual-identity",
       category: "PRODUCTION",
       year: "2026",
